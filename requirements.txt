@@ -1,0 +1,5 @@
+pandas
+jupyter
+python-dotenv
+openai
+langsmith

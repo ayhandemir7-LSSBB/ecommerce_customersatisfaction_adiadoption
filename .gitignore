@@ -1,2 +1,6 @@
 .env
-.DS_store
+_backup/
+data/raw/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
