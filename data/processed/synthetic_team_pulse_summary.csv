@@ -1,0 +1,54 @@
+team,uses_ai_answer,why_category,count,synthetic
+Pulse team A,No,don't trust AI,<5,True
+Pulse team A,No,need training,<5,True
+Pulse team A,No,other,<5,True
+Pulse team A,Yes,don't trust AI,<5,True
+Pulse team A,Yes,need training,<5,True
+Pulse team A,Yes,other,<5,True
+Pulse team A,Yes,saves time,<5,True
+Pulse team B,No,don't trust AI,<5,True
+Pulse team B,No,fear for my job,<5,True
+Pulse team B,No,need training,<5,True
+Pulse team B,Yes,better quality,<5,True
+Pulse team B,Yes,don't trust AI,<5,True
+Pulse team B,Yes,other,<5,True
+Pulse team B,Yes,saves time,<5,True
+Pulse team C,No,need training,<5,True
+Pulse team C,No,other,<5,True
+Pulse team C,Yes,don't trust AI,<5,True
+Pulse team C,Yes,need training,<5,True
+Pulse team C,Yes,other,<5,True
+Pulse team C,Yes,saves time,<5,True
+Pulse team D,No,better quality,<5,True
+Pulse team D,No,don't trust AI,<5,True
+Pulse team D,No,need training,<5,True
+Pulse team D,No,other,<5,True
+Pulse team D,Yes,better quality,<5,True
+Pulse team D,Yes,don't trust AI,<5,True
+Pulse team D,Yes,saves time,<5,True
+Pulse team E,No,better quality,<5,True
+Pulse team E,No,don't trust AI,<5,True
+Pulse team E,No,need training,<5,True
+Pulse team E,No,saves time,<5,True
+Pulse team E,Yes,don't trust AI,<5,True
+Pulse team E,Yes,need training,<5,True
+Pulse team F,No,need training,<5,True
+Pulse team F,No,saves time,<5,True
+Pulse team F,Yes,don't trust AI,<5,True
+Pulse team F,Yes,fear for my job,<5,True
+Pulse team F,Yes,need training,<5,True
+Pulse team F,Yes,saves time,<5,True
+Pulse team G,No,better quality,<5,True
+Pulse team G,No,fear for my job,<5,True
+Pulse team G,No,saves time,<5,True
+Pulse team G,Yes,don't trust AI,<5,True
+Pulse team G,Yes,fear for my job,<5,True
+Pulse team G,Yes,need training,<5,True
+Pulse team H,No,better quality,<5,True
+Pulse team H,No,don't trust AI,<5,True
+Pulse team H,No,need training,<5,True
+Pulse team H,Yes,better quality,<5,True
+Pulse team H,Yes,fear for my job,<5,True
+Pulse team H,Yes,need training,<5,True
+Pulse team H,Yes,other,<5,True
+Pulse team H,Yes,saves time,<5,True
