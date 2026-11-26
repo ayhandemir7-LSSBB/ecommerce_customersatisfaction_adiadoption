@@ -26,3 +26,22 @@ i |
 i |
 | 2026-11-26 16:10 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && grep -n "STOP" no |
 | 2026-11-26 16:10 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && sed -i '' "63s/ST |
+| 2026-11-26 16:13 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && grep "^/ R1" boar |
+| 2026-11-26 16:16 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-01_research_ |
+| 2026-11-26 16:16 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:18 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-01_research_ |
+| 2026-11-26 16:18 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:19 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:19 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-26 16:25 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:25 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:28 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-01_research_ |
+| 2026-11-26 16:28 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:28 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
