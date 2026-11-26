@@ -3,3 +3,5 @@ jupyter
 python-dotenv
 openai
 langsmith
+kagglehub
+datasets
