@@ -1,0 +1,76 @@
+email_id,subject,body,language,status
+S08,Inquiry About Late Delivery and Tracking Update for Order SPK-146316,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my concern regarding my recent order (Order Number: SPK-146316), which is now overdue for delivery. I was expecting it to arrive by the specified date, but I have not yet received it and there have been no updates provided on the tracking status.
+
+Could you please assist me by providing an update on the current status of my order? Additionally, I would appreciate any information on when I can expect the delivery to arrive.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+Luca",en,New
+S14,Request for Order Cancellation - SPK-571858,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to request the cancellation of my recent order, SPK-571858, which I placed only a few hours ago. I have reconsidered my purchase and would like to ensure that it is cancelled before it is dispatched.
+
+I appreciate your attention to this matter and hope to receive a confirmation of the cancellation at your earliest convenience. Thank you for your understanding.
+
+Best regards,
+Jonas",en,New
+S19,Rücksendung Anfrage,"Hallo Spreekorb-Team,
+
+ich möchte einige Artikel aus meiner Bestellung zurücksenden. Die Bestellnummer ist SPK-031244. Ich bin mir nicht sicher, wie das genau funktioniert, also benötige ich bitte Hilfe. Gibt es ein Rücksendeformular oder ähnliches? 
+
+Danke im Voraus für die Unterstützung.
+
+Viele Grüße,
+Amara",de,New
+S23,Rücksendung wegen falscher Größe,"Hallo Spreekorb Team, ich habe eine Bestellung gemacht (Bestellnummer: SPK-529903) und die Größe stimmt nicht. Ich möchte das gerne umtauschen, aber ich bin mir nicht sicher, wie das funktioniert. Könnt ihr mir bitte helfen? Ich würde das Produkt zurückschicken und die richtige Größe bestellen. Danke! Grüße, Greta",de,New
+S25,Falscher Artikel erhalten - Bestellung SPK-027824,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, Sie können mir helfen. Ich habe vor kurzem die Bestellung mit der Nummer SPK-027824 aufgegeben, leider habe ich den falschen Artikel erhalten. Anstelle des gewünschten Produkts erhielt ich etwas anderes. 
+
+Könnten Sie bitte überprüfen, was schiefgelaufen ist? Ich würde mich freuen, den richtigen Artikel zu erhalten.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Lena",de,New
+S28,Request for Update on Refund and Order Status,"Dear Spreekorb Customer Service,
+
+I hope this email finds you well. I am writing to inquire about the status of my refund for order number SPK-750800, which I was informed would be processed within a week, but it has now been overdue for over ten days. Could you please provide me with an update on when I can expect to receive it?
+
+Additionally, I would appreciate it if you could confirm the current status of my order, as I have not received any further information since the initial confirmation. 
+
+Thank you for your attention to these matters. 
+
+Best regards,
+Tarek",en,New
+S37,Bitte um erneute Zusendung der Rechnung,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich habe vor Kurzem eine Bestellung mit der Nummer SPK-848749 aufgegeben und benötige die Rechnung dazu. Leider habe ich diese nicht erhalten und wäre Ihnen sehr dankbar, wenn Sie mir die Rechnung erneut zusenden könnten.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Lena",de,New
+S38,Issue with Double Charge on Order SPK-911527,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to bring to your attention an issue with my recent order, SPK-911527. I noticed that my account has been charged twice for this purchase. This is quite frustrating and I would appreciate your assistance in resolving this matter as soon as possible. 
+
+Please let me know what steps I need to take to rectify this situation. I look forward to your prompt response.
+
+Thank you,
+Jonas",en,New
+S56,Concern Regarding Legal Threat and Order SPK-888662,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my concern regarding a recent legal threat I received related to my order SPK-888662. This situation is quite distressing, and I would appreciate your assistance in resolving it swiftly. Could you please investigate this matter and clarify any misunderstandings?
+
+Additionally, I kindly request confirmation of the shipment status for my order. It's important for me to stay informed as I navigate this issue.
+
+Thank you for your attention to these matters. I look forward to your prompt response.
+
+Best regards,
+Luca",en,New
+S59,Danke für den tollen Service,"Liebes Spreekorb-Team, ich wollte mich einfach mal bedanken. Meine Bestellung (SPK-277370) kam schnell an und alles war in einwandfreiem Zustand. Das Produkt hat meine Erwartungen sogar übertroffen. Ich habe mich wirklich gefreut, als ich das Paket geöffnet habe. Ihr Service war super, danke dafür! Macht weiter so! Viele Grüße, Greta",de,New
+SEED-EMPTY,Test: empty email (synthetic),,,New

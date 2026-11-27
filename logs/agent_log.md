@@ -233,3 +233,65 @@ n=dat |
 | 2026-11-27 14:29 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; cp board.md "_backu |
 | 2026-11-27 14:29 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; grep -o "Source: [^ |
 | 2026-11-27 14:29 | Edit | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
+| 2026-11-27 14:33 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; cat board.md; ls sp |
+| 2026-11-27 14:33 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat board.md && l |
+| 2026-11-27 14:33 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat specs/R1-06_c |
+| 2026-11-27 14:34 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && head -3 langsmith |
+| 2026-11-27 14:34 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat data/timing_l |
+| 2026-11-27 14:34 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat specs/R1-04_n |
+| 2026-11-27 14:41 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 14:41 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat specs/R1-04_n |
+| 2026-11-27 14:41 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat n8n/workflow. |
+| 2026-11-27 14:41 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -c "
+impo |
+| 2026-11-27 14:41 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat n8n/airtable_ |
+| 2026-11-27 14:41 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -c "
+impo |
+| 2026-11-27 14:41 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && git diff board.md |
+| 2026-11-27 14:42 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && /opt/anaconda3/bi |
+| 2026-11-27 14:42 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && for f in data/pro |
+| 2026-11-27 14:42 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -c "
+impo |
+| 2026-11-27 14:42 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -c "
+impo |
+| 2026-11-27 14:42 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -c "
+impo |
+| 2026-11-27 14:42 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-06_cost_time |
+| 2026-11-27 14:42 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 14:43 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && head -8 logs/agen |
+| 2026-11-27 14:43 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-06_cost_time |
+| 2026-11-27 14:44 | Write | /private/tmp/claude-501/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-adiadoption/b |
+| 2026-11-27 14:44 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -c "
+impo |
+| 2026-11-27 14:44 | Bash | cd /private/tmp/claude-501/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-adiadoptio |
+| 2026-11-27 14:44 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && grep -n -E "\b20\ |
+| 2026-11-27 14:44 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -c "
+impo |
+| 2026-11-27 14:44 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 - <<'EOF' |
+| 2026-11-27 14:44 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 14:44 | Write | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
+| 2026-11-27 14:44 | Bash | SP=/private/tmp/claude-501/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-adiadoptio |
+| 2026-11-27 14:44 | Bash | echo "- [R1-06 timing inputs](r1-06-timing-inputs.md) — manual 15 min fixed by Ayhan, AI 5 min measured; don't reopen" > |
+| 2026-11-27 14:44 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 14:44 | Note | R1-04: built notebooks/R1-04_n8n_poc.ipynb (seed CSV + workflow docs), card set to Review, not run |
+| 2026-11-27 14:44 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && printf '/ %s / No |
+| 2026-11-27 14:46 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-06_cost_time |
+| 2026-11-27 14:46 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -c "
+impo |
+| 2026-11-27 14:47 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 14:47 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 14:47 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && /opt/anaconda3/bi |
+| 2026-11-27 14:47 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && grep -n "—" noteb |
+| 2026-11-27 14:47 | Bash | /opt/anaconda3/bin/python - <<'PYEOF'
+p='/private/tmp/claude-501/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-eco |
+| 2026-11-27 14:48 | Bash | SP=/private/tmp/claude-501/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-adiadoptio |
+| 2026-11-27 14:48 | Note | R1-04: reviewer + compliance fix round applied, dry run 21/21 PASS, card stays Review |
+| 2026-11-27 14:48 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && /opt/anaconda3/bi |
+| 2026-11-27 14:50 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && grep -n -E "^\/ R |
+| 2026-11-27 14:50 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 - <<'EOF' |
+| 2026-11-27 14:50 | Bash | cd "/Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfacti |
+| 2026-11-27 14:50 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && grep -n "Tobi\/4  |
+| 2026-11-27 14:50 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/n8n/airtable_setup.md |
+| 2026-11-27 14:50 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/n8n/airtable_setup.md |
+| 2026-11-27 14:50 | Note | R1-04: fixed 2 stale lines in n8n/airtable_setup.md on Ayhan request (backup made) |
+| 2026-11-27 14:50 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && git diff --stat n |

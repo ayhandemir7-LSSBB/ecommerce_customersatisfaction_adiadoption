@@ -5,7 +5,7 @@ Create the fields with these exact names (lower case). 16 fields. The workflow m
 
 | Field | Airtable type | Filled by | Purpose |
 |---|---|---|---|
-| email_id | Single line text (primary field) | Seed CSV | Tobi-Bueck row id, for tracing |
+| email_id | Single line text (primary field) | Seed CSV | Synthetic Spreekorb email id (S01 to S60 from spreekorb_emails_60.csv, generated; SEED-EMPTY for the empty-email test), for tracing |
 | subject | Single line text | Seed CSV | Email subject |
 | body | Long text | Seed CSV | Email text |
 | language | Single line text | Seed CSV | de or en |
@@ -26,7 +26,7 @@ Create the fields with these exact names (lower case). 16 fields. The workflow m
 1. Create the base and table, then the fields above. Delete Airtable's default fields (Notes, Assignee...).
 2. Copy the **base id** (`app...`) and **table id** (`tbl...`) from the Airtable URL.
 3. Import `n8n/workflow.json` in n8n (Workflows > Import from file).
-4. In the 4 Airtable nodes, paste the base id and table id where it says `PASTE_BASE_ID` / `PASTE_TABLE_ID` (or pick them from the list), and select your Airtable credential. Select your OpenAI credential in the model node.
+4. In the 3 Airtable nodes (the trigger and both update nodes), paste the base id and table id where it says `PASTE_BASE_ID` / `PASTE_TABLE_ID` (or pick them from the list), and select your Airtable credential. Select your OpenAI credential in the model node.
 5. Open both update nodes and check that the columns are mapped (n8n may ask to refresh the column list).
 6. Activate the workflow. Then import `n8n/airtable_seed.csv` into the table (or paste the rows). Within about a minute each row gets an AI draft and status `Pending review`.
 7. Review 3 rows yourself in Airtable: set status to Approved / Edited / Rejected and fill final_reply. Take the screenshots.
