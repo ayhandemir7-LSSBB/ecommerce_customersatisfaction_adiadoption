@@ -68,6 +68,6 @@ Full table: langsmith/trace_summary.csv. Human scores: langsmith/human_review.cs
 - Only synthetic emails were sent. OpenAI and LangSmith are US processors: real customer emails need a data processing agreement, a transfer basis and an EU region where offered, first. The works agreement is a draft, so this setup is prepared for compliance, not proof of it.
 
 ## Evidence
-- LangSmith share link: PENDING: paste the public share link of the held-out experiment
-- PENDING screenshot: experiment table with the evaluator columns (langsmith/screenshots/)
-- PENDING screenshot: one trace showing input, output, latency, tokens and cost (langsmith/screenshots/)
+- LangSmith share link: https://smith.langchain.com/public/4827265f-9659-41b5-9785-d587b1cd87e8/d
+- ![experiment details](screenshots/experiment%20details.png)
+- ![experiment overview](screenshots/experiment%20overview.png)
