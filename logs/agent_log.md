@@ -351,3 +351,6 @@ impo |
 | 2026-11-27 16:59 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-07_submit.ip |
 | 2026-11-27 16:59 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
 i |
+| 2026-11-27 17:17 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && git status --shor |
+| 2026-11-27 17:17 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && git log --oneline |
+| 2026-11-27 17:18 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I - <<'E |
