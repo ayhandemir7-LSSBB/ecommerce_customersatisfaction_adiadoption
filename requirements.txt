@@ -7,3 +7,4 @@ kagglehub
 datasets
 pypdf
 reportlab
+numpy
