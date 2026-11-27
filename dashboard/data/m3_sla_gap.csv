@@ -5,4 +5,5 @@ Target (proposed): first response within,24.0,hours,target (proposed),research/s
 Target (proposed): share of emails within 24 h,90.0,percent,target (proposed),research/sector_research.md KPI baseline,False
 Reply time German shoppers expect,24.0,hours,German shopper expectation (eDesk),eDesk https://www.edesk.com/de/blog/5-wesentliche-strategien-fuer-eine-effizientere-bearbeitung-von-kundenanfragen-im-online-handel-deutscher-markt/,False
 "Average response time, e-commerce",17.3,hours,E-commerce market average (Netomi 2020),Netomi 2020 https://ai.netomi.com/hubfs/Content%20Library/customerservice-benchmarkreport-ecommerce.pdf,False
-Spreekorb agent touch time per email,,minutes,measured (pending R1-06 timing test),R1-06 timing test (pending),False
+Agent touch time per email today (manual),15.0,minutes,"estimate (Ayhan, R1-06)",cost_estimation/cost_analysis.md (R1-06 timing test),False
+Agent touch time per email with AI draft,5.0,minutes,"measured (self-reported average, Ayhan, R1-06; done second, learning bias)",cost_estimation/cost_analysis.md (R1-06 timing test),False

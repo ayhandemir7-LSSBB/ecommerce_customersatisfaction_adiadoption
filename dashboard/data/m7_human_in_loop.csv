@@ -1,4 +1,4 @@
 measure,value,unit,label,source,synthetic
-AI drafts traced in LangSmith,,drafts,measured (pending R1-05),langsmith/trace_summary.csv (R1-05),False
-Average seconds per draft,,seconds,measured (pending R1-05),langsmith/trace_summary.csv (R1-05),False
-Average cost per draft,,EUR,measured (pending R1-05),langsmith/trace_summary.csv (R1-05),False
+AI drafts traced in LangSmith,30.0,drafts,"measured (R1-05 LangSmith, heldout_20 n=20 + timing_10 n=10)",langsmith/trace_summary.csv + langsmith/monitoring_note.md (R1-05),False
+Average seconds per draft,2.21,seconds,"measured (R1-05 LangSmith, heldout_20 n=20 + timing_10 n=10)",langsmith/trace_summary.csv + langsmith/monitoring_note.md (R1-05),False
+Average cost per draft,0.000346,EUR,"estimate (USD x 0.9123, tradingview.com USDEUR, 27 Nov 2026; heldout_20 n=20 + timing_10 n=10)",langsmith/trace_summary.csv + langsmith/monitoring_note.md (R1-05),False
