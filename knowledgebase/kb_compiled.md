@@ -63,7 +63,7 @@ sent without an agent's approval. Facts in a reply must come from this policy or
 
 === 02_brand_voice_guide ===
 Spreekorb Brand Voice Guide
-Version 1.0 · Owner: Customer Experience
+Version 1.1 (27 Nov 2026: length 40 to 120 words, language rule) · Owner: Customer Experience
 Invented for an Ironhack case study. Spreekorb is not a real company.
 Page 1: How Spreekorb sounds
 In one line: like a helpful neighbour from Berlin who knows the shop well: friendly, direct, honest.
@@ -94,7 +94,9 @@ Details the customer needs (what they do, what we do, by when).
 One closing line offering help.
 5
 Sign-off: "Viele Grüße, dein Spreekorb Kundenservice" / "Best wishes, Spreekorb Customer Service"
-Length: 60 to 120 words. Bullets only for steps the customer must follow.
+Length: 40 to 120 words. Short is good: answer first, no filler. Bullets only for steps the customer must follow.
+Language: reply in the language the customer wrote in. German: "du", sign-off "Viele Grüße, dein Spreekorb
+Kundenservice". English: "Hi [first name]," and sign-off "Best wishes, Spreekorb Customer Service".
 Page 2: Example replies
 Example 1 (German, return question)
 Hallo Lena,

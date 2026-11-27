@@ -1,7 +1,7 @@
 # Airtable setup for R1-04 (Review queue)
 
 Base: **Spreekorb Email Triage** · Table: **Review queue**
-Create the fields with these exact names (lower case). 15 fields. The workflow maps to them by name.
+Create the fields with these exact names (lower case). 16 fields. The workflow maps to them by name.
 
 | Field | Airtable type | Filled by | Purpose |
 |---|---|---|---|
@@ -10,6 +10,7 @@ Create the fields with these exact names (lower case). 15 fields. The workflow m
 | body | Long text | Seed CSV | Email text |
 | language | Single line text | Seed CSV | de or en |
 | created | Created time | Airtable | The trigger watches this field |
+| ai_language | Single line text | n8n | Language the AI detected (de or en); the draft uses it |
 | ai_queue | Single line text | n8n | AI queue suggestion |
 | ai_priority | Single line text | n8n | AI priority suggestion |
 | ai_reason | Long text | n8n | One-line reason (transparency) |
@@ -18,7 +19,7 @@ Create the fields with these exact names (lower case). 15 fields. The workflow m
 | status | Single select: New, Pending review, Approved, Edited, Rejected, Skipped: empty email | n8n, then the agent | Human-in-the-loop state |
 | final_reply | Long text | Agent | What the agent would actually send |
 | reviewer_note | Long text | Agent | Why edited or rejected |
-| model | Single line text | n8n | Model and prompt version (gpt-4o-mini, prompt v4) |
+| model | Single line text | n8n | Model and prompt version (gpt-4o-mini, prompt v5) |
 | processed_at | Single line text | n8n | ISO time of the AI run |
 
 ## Steps
