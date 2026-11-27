@@ -326,3 +326,7 @@ impo |
 | 2026-11-27 15:07 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && SP="/private/tmp/ |
 | 2026-11-27 15:07 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && /opt/anaconda3/bi |
 | 2026-11-27 15:08 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 16:06 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cut -d, -f1-3 das |
+| 2026-11-27 16:06 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 16:06 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 16:06 | Edit | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
