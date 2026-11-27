@@ -229,3 +229,7 @@ n=dat |
 | 2026-11-27 14:14 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
 | 2026-11-27 14:14 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
 | 2026-11-27 14:17 | Edit | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
+| 2026-11-27 14:28 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; grep -n "PENDING\/j |
+| 2026-11-27 14:29 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; cp board.md "_backu |
+| 2026-11-27 14:29 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; grep -o "Source: [^ |
+| 2026-11-27 14:29 | Edit | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
