@@ -1,0 +1,12 @@
+category,n,csat_4_5_pct,shown,source,synthetic
+Returns,1199,74.4,True,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Order Related,1046,70.4,True,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Refund Related,435,80.9,True,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Feedback,122,71.3,True,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Cancellation,64,60.9,True,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Payments related,54,74.1,True,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Shopzilla Related,52,75.0,True,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+App/website,3,,False,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Offers & Cashback,16,,False,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Others,5,,False,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False
+Product Queries,10,,False,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_email_clean.csv, computed)",False

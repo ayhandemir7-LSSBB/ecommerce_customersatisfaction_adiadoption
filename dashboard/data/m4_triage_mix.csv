@@ -1,0 +1,9 @@
+queue,language,tickets,share_pct,routine_share_pct,label,source,synthetic,synthetic_status
+Billing and Payments,de,14,9.3,66.7,what AI triage would route,"Tobi-Bueck, Hugging Face https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets (tobi_tuning_150.csv, computed)",True,"confirmed synthetic (Ayhan, 2026-11-26)"
+Billing and Payments,en,14,9.3,66.7,what AI triage would route,"Tobi-Bueck, Hugging Face https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets (tobi_tuning_150.csv, computed)",True,"confirmed synthetic (Ayhan, 2026-11-26)"
+Customer Service,de,15,10.0,66.7,what AI triage would route,"Tobi-Bueck, Hugging Face https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets (tobi_tuning_150.csv, computed)",True,"confirmed synthetic (Ayhan, 2026-11-26)"
+Customer Service,en,37,24.7,66.7,what AI triage would route,"Tobi-Bueck, Hugging Face https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets (tobi_tuning_150.csv, computed)",True,"confirmed synthetic (Ayhan, 2026-11-26)"
+Product Support,de,21,14.0,66.7,what AI triage would route,"Tobi-Bueck, Hugging Face https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets (tobi_tuning_150.csv, computed)",True,"confirmed synthetic (Ayhan, 2026-11-26)"
+Product Support,en,29,19.3,66.7,what AI triage would route,"Tobi-Bueck, Hugging Face https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets (tobi_tuning_150.csv, computed)",True,"confirmed synthetic (Ayhan, 2026-11-26)"
+Returns and Exchanges,de,9,6.0,66.7,what AI triage would route,"Tobi-Bueck, Hugging Face https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets (tobi_tuning_150.csv, computed)",True,"confirmed synthetic (Ayhan, 2026-11-26)"
+Returns and Exchanges,en,11,7.3,66.7,what AI triage would route,"Tobi-Bueck, Hugging Face https://huggingface.co/datasets/Tobi-Bueck/customer-support-tickets (tobi_tuning_150.csv, computed)",True,"confirmed synthetic (Ayhan, 2026-11-26)"

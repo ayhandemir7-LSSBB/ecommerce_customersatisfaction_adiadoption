@@ -1,0 +1,9 @@
+kind,answer,share_pct,count,source,synthetic
+adoption,Yes,56.2,45,"synthetic_team_pulse.csv (synthetic, placeholder weights)",True
+adoption,No,43.8,35,"synthetic_team_pulse.csv (synthetic, placeholder weights)",True
+why,need training,30.0,24,"synthetic_team_pulse.csv (synthetic, placeholder weights)",True
+why,saves time,18.8,15,"synthetic_team_pulse.csv (synthetic, placeholder weights)",True
+why,don't trust AI,18.8,15,"synthetic_team_pulse.csv (synthetic, placeholder weights)",True
+why,better quality,12.5,10,"synthetic_team_pulse.csv (synthetic, placeholder weights)",True
+why,fear for my job,11.2,9,"synthetic_team_pulse.csv (synthetic, placeholder weights)",True
+why,other,8.8,7,"synthetic_team_pulse.csv (synthetic, placeholder weights)",True

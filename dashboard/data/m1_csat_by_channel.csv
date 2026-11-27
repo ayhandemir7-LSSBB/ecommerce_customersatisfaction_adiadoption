@@ -1,0 +1,4 @@
+channel_name,n,csat_4_5_pct,source,synthetic
+Email,3023,73.5,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_contacts_clean.csv, computed)",False
+Inbound,68142,82.7,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_contacts_clean.csv, computed)",False
+Outcall,14742,83.2,"Shopzilla, Kaggle https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction (shopzilla_contacts_clean.csv, computed)",False

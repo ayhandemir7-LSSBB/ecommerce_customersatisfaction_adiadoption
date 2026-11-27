@@ -1,0 +1,8 @@
+measure,value,unit,label,source,synthetic
+Spreekorb today: median first response,31.0,hours,synthetic,research/sector_research.md KPI baseline,True
+Spreekorb today: share answered within 24 h,58.0,percent,synthetic,research/sector_research.md KPI baseline,True
+Target (proposed): first response within,24.0,hours,target (proposed),research/sector_research.md KPI baseline,False
+Target (proposed): share of emails within 24 h,90.0,percent,target (proposed),research/sector_research.md KPI baseline,False
+Reply time German shoppers expect,24.0,hours,German shopper expectation (eDesk),eDesk https://www.edesk.com/de/blog/5-wesentliche-strategien-fuer-eine-effizientere-bearbeitung-von-kundenanfragen-im-online-handel-deutscher-markt/,False
+"Average response time, e-commerce",17.3,hours,E-commerce market average (Netomi 2020),Netomi 2020 https://ai.netomi.com/hubfs/Content%20Library/customerservice-benchmarkreport-ecommerce.pdf,False
+Spreekorb agent touch time per email,,minutes,measured (pending R1-06 timing test),R1-06 timing test (pending),False

@@ -1,0 +1,4 @@
+measure,value,unit,label,source,synthetic
+AI drafts traced in LangSmith,,drafts,measured (pending R1-05),langsmith/trace_summary.csv (R1-05),False
+Average seconds per draft,,seconds,measured (pending R1-05),langsmith/trace_summary.csv (R1-05),False
+Average cost per draft,,EUR,measured (pending R1-05),langsmith/trace_summary.csv (R1-05),False

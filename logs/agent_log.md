@@ -45,3 +45,43 @@ i |
 i |
 | 2026-11-26 16:28 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
 i |
+| 2026-11-26 16:34 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-03_dashboard |
+| 2026-11-26 16:35 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:38 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-03_dashboard |
+| 2026-11-26 16:39 | Write | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
+| 2026-11-26 16:39 | Bash | cd "/Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfacti |
+| 2026-11-26 16:39 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-03_dashboard |
+| 2026-11-26 16:40 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:40 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-26 16:55 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-03_dashboard |
+| 2026-11-26 16:55 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-26 16:57 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-01_research_ |
+| 2026-11-26 16:58 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-27 09:38 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat specs/R1-05_l |
+| 2026-11-27 09:38 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/specs/R1-05_langsmith.md |
+| 2026-11-27 09:38 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && printf '%s\n' '/  |
+| 2026-11-27 09:41 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-03_dashboard |
+| 2026-11-27 09:41 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-27 09:45 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-03_dashboard |
+| 2026-11-27 09:45 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-27 09:52 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && ls -la dashboard  |
+| 2026-11-27 09:57 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && ls dashboard dash |
+| 2026-11-27 09:59 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && ls -la notebooks/ |
+| 2026-11-27 10:00 | Write | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/notebooks/R1-03_dashboard |
+| 2026-11-27 10:00 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && ls -la notebooks/ |
+| 2026-11-27 10:00 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 10:04 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && grep -n "astype(s |
+| 2026-11-27 10:05 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-27 10:05 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+i |
+| 2026-11-27 10:09 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && python3 -I -c "
+p |
+| 2026-11-27 10:09 | Write | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
+| 2026-11-27 10:09 | Bash | cd "/Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfacti |
