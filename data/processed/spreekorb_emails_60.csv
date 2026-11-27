@@ -1,0 +1,491 @@
+email_id,topic,tone,language,subject,body,queue_intended,priority_intended,split,timing_flag,synthetic,generator
+S01,Order status,calm,de,Anfrage zum Bestellstatus meiner Bestellung SPK-670487,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich würde gerne den aktuellen Status meiner Bestellung mit der Bestellnummer SPK-670487 erfragen. Bisher habe ich noch keine Versandbenachrichtigung erhalten und würde mich freuen, wenn Sie mir hierzu eine kurze Rückmeldung geben könnten.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+Lena",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S02,Order status,annoyed,en,Inquiry About Order Status - SPK-116739,"Hello Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to inquire about the status of my order, SPK-116739, which I placed over two weeks ago. I was expecting to receive it by now, but I have not received any updates or tracking information. This silence is quite frustrating, and I would appreciate any information you can provide regarding when I can expect my order to arrive.
+
+Thank you for your attention to this matter.
+
+Best regards,
+Jonas",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S03,Order status,short-unclear,de,Bestellstatus Anfrage,"Hallo Spreekorb-Team, ich hoffe, es geht euch gut. Ich wollte mich nach dem Status meiner Bestellung erkundigen. Die Bestellnummer ist SPK-026225. Ich habe vor einiger Zeit bestellt und habe bisher keine Rückmeldung bekommen. Könntet ihr mir bitte sagen, wann ich mit der Lieferung rechnen kann? Danke im Voraus für eure Hilfe. Liebe Grüße, Mira",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S04,Order status,long-two-requests,en,Inquiry About Order Status and Additional Request,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to inquire about the status of my order (Order Number: SPK-777572), which I placed a couple of weeks ago. I have not yet received any updates, and I would appreciate any information you could provide regarding its progress.
+
+Additionally, I would like to request a change in my shipping address for this order. If possible, please let me know how I can proceed with this adjustment.
+
+Thank you for your assistance, and I look forward to your prompt response.
+
+Best regards,
+
+Tarek",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S05,Order status,calm,de,Anfrage zum Bestellstatus,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich habe am [Datum] eine Bestellung mit der Bestellnummer SPK-288389 aufgegeben und wollte mich erkundigen, wie der aktuelle Status meiner Bestellung ist. Ich wäre Ihnen sehr dankbar, wenn Sie mir Informationen über den Versand oder etwaige Verzögerungen zukommen lassen könnten.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Sofie",Customer Service,medium,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S06,"Late delivery, no tracking update",annoyed,en,Inquiry Regarding Late Delivery and Missing Tracking Update,"Dear Spreekorb Customer Service,
+
+I am writing to express my frustration regarding my recent order (SPK-256787). It has not yet arrived, and I have not received any tracking updates. I understand that delays can happen, but it has been quite some time without any communication from your side. 
+
+Could you please provide me with an update on my order’s status? I would appreciate your prompt attention to this matter.
+
+Thank you.
+
+Best regards,
+Henrik",Customer Service,medium,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S07,"Late delivery, no tracking update",short-unclear,de,Verspätete Lieferung und fehlendes Tracking-Update,"Hallo Spreekorb-Team,
+
+ich habe am 10. Oktober eine Bestellung mit der Bestellnummer SPK-234053 aufgegeben. Leider ist die Lieferung bis jetzt noch nicht angekommen und ich habe keinerlei Updates zum Versandstatus oder Tracking. Könnten Sie mir bitte helfen? Ich wäre Ihnen sehr dankbar für Informationen.
+
+Vielen Dank.
+
+Gruß,
+Amara",Customer Service,medium,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S08,"Late delivery, no tracking update",long-two-requests,en,Inquiry About Late Delivery and Tracking Update for Order SPK-146316,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my concern regarding my recent order (Order Number: SPK-146316), which is now overdue for delivery. I was expecting it to arrive by the specified date, but I have not yet received it and there have been no updates provided on the tracking status.
+
+Could you please assist me by providing an update on the current status of my order? Additionally, I would appreciate any information on when I can expect the delivery to arrive.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+Luca",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S09,"Late delivery, no tracking update",calm,de,Anfrage zur verspäteten Lieferung,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich schreibe Ihnen bezüglich meiner Bestellung mit der Bestellnummer SPK-772246. Leider ist die Lieferung bisher verspätet und ich habe auch keine aktuellen Informationen zur Sendungsverfolgung erhalten.
+
+Könnten Sie mir bitte ein Update über den Status meiner Lieferung geben? Ich wäre Ihnen sehr dankbar.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Nadia",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S10,"Late delivery, no tracking update",annoyed,en,Inquiry About Late Delivery for Order SPK-107473,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my frustration regarding the late delivery of my order, SPK-107473. It was supposed to arrive last week, but I have yet to receive it. Furthermore, I have not received any updates on the tracking status, which has left me quite annoyed.
+
+I would appreciate any information you can provide about the status of my order and when I can expect it to arrive.
+
+Thank you for your attention to this matter.
+
+Best regards,
+Pavel",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S11,Cancellation before dispatch,short-unclear,de,Stornierung meiner Bestellung,"Hallo Spreekorb-Team,
+
+ich möchte meine Bestellung mit der Nummer SPK-709570 stornieren. Ich bin mir nicht sicher, ob das noch möglich ist, da sie möglicherweise schon versandt wurde. Ich hätte gerne eine Bestätigung, falls das noch machbar ist. 
+
+Danke und viele Grüße,
+Greta",Customer Service,medium,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S12,Cancellation before dispatch,long-two-requests,en,Request for Order Cancellation and Inquiry,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to request the cancellation of my recent order, number SPK-776646, as I have changed my mind about the purchase. I would appreciate your confirmation of this cancellation at your earliest convenience.
+
+Additionally, I would like to inquire about the timeframe for processing cancellations before dispatch. If my request is successful, how long will it take for the cancellation to be reflected in my account?
+
+Thank you for your assistance. I look forward to your prompt response.
+
+Best regards,
+Omar",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S13,Cancellation before dispatch,calm,de,Stornierung meiner Bestellung vor dem Versand,"Sehr geehrtes Spreekorb-Team,\n\nich hoffe, es geht Ihnen gut. Ich möchte meine Bestellung mit der Bestellnummer SPK-935518 stornieren, da ich meine Entscheidung geändert habe. Die Bestellung wurde noch nicht versendet, daher hoffe ich, dass die Stornierung problemlos möglich ist.\n\nVielen Dank für Ihre Hilfe und ich freue mich auf eine Bestätigung meiner Anfrage.\n\nMit freundlichen Grüßen,\nLena",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S14,Cancellation before dispatch,annoyed,en,Request for Order Cancellation - SPK-571858,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to request the cancellation of my recent order, SPK-571858, which I placed only a few hours ago. I have reconsidered my purchase and would like to ensure that it is cancelled before it is dispatched.
+
+I appreciate your attention to this matter and hope to receive a confirmation of the cancellation at your earliest convenience. Thank you for your understanding.
+
+Best regards,
+Jonas",Customer Service,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S15,Return request,short-unclear,de,Rücksendungsanfrage,"Hallo Spreekorb-Team,
+
+ich habe eine Bestellung mit der Nummer SPK-091161 und möchte etwas zurückschicken. Leider bin ich mir nicht ganz sicher, wie der Rücksendeprozess genau funktioniert. Gibt es da spezielle Schritte, die ich beachten muss? Ich wäre dankbar für eine kurze Anleitung.
+
+Vielen Dank im Voraus!
+
+Viele Grüße,
+Mira",Returns and Exchanges,medium,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S16,Return request,long-two-requests,en,Return Request for Order SPK-619176,"Dear Spreekorb Customer Service, 
+
+I hope this message finds you well. I am writing to request a return for my recent order, SPK-619176. Unfortunately, the item did not meet my expectations, and I would like to initiate the return process at your earliest convenience. 
+
+Additionally, I would appreciate if you could provide me with information on the timeline for processing the return and any shipping procedures I should follow. Thank you for your assistance. 
+
+Best regards, 
+Tarek",Returns and Exchanges,medium,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S17,Return request,calm,de,Rücksendungsanfrage für Bestellung SPK-442417,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich möchte eine Rücksendung für meine Bestellung mit der Nummer SPK-442417 anfragen. Leider entspricht der Artikel nicht meinen Erwartungen und ich würde ihn gerne zurücksenden. 
+
+Könnten Sie mir bitte die notwendigen Informationen zur Rücksendung zukommen lassen? Ich wäre Ihnen sehr dankbar.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Sofie",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S18,Return request,annoyed,en,Return Request for Order SPK-033326,"Dear Spreekorb Customer Service,
+
+I am writing to express my frustration regarding my recent order, SPK-033326. The item I received does not match the description provided on your website, and I would like to initiate a return. I expected a smooth process, but I found it quite challenging to find the proper return instructions on your site. 
+
+Please provide me with the necessary information to return this item promptly. I would appreciate a quick response so I can resolve this matter.
+
+Thank you,
+Henrik",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S19,Return request,short-unclear,de,Rücksendung Anfrage,"Hallo Spreekorb-Team,
+
+ich möchte einige Artikel aus meiner Bestellung zurücksenden. Die Bestellnummer ist SPK-031244. Ich bin mir nicht sicher, wie das genau funktioniert, also benötige ich bitte Hilfe. Gibt es ein Rücksendeformular oder ähnliches? 
+
+Danke im Voraus für die Unterstützung.
+
+Viele Grüße,
+Amara",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S20,"Exchange, wrong size",long-two-requests,en,Request for Exchange - Wrong Size for Order SPK-098246,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to request an exchange for my recent order, SPK-098246. Unfortunately, the item I received is not the correct size for me. I would appreciate your guidance on how to proceed with this exchange process.
+
+Additionally, I would like to inquire whether you have any specific guidelines or policies regarding the return of items. Knowing this information would greatly assist me in ensuring a smooth exchange.
+
+Thank you for your time and assistance. I look forward to your prompt response.
+
+Best regards,
+Luca",Returns and Exchanges,medium,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S21,"Exchange, wrong size",calm,de,Umtausch wegen falscher Größe,"Liebes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich habe vor kurzem eine Bestellung (Bestellnummer: SPK-229258) aufgegeben und leider die falsche Größe erhalten. 
+
+Ich würde gerne einen Umtausch vornehmen. Könnten Sie mir bitte die Schritte dazu erläutern? 
+
+Vielen Dank für Ihre Unterstützung!
+
+Mit freundlichen Grüßen,
+Nadia",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S22,"Exchange, wrong size",annoyed,en,Request for Exchange - Incorrect Size,"Dear Spreekorb Customer Service,
+
+I recently ordered an item (Order number: SPK-243962), but unfortunately, it arrived in the wrong size. I am quite annoyed as I was looking forward to using it. Could you please assist me with the exchange process? I would appreciate clear instructions on how to return the item and receive the correct size. 
+
+Thank you for your prompt attention to this matter. 
+
+Best regards,
+Pavel",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S23,"Exchange, wrong size",short-unclear,de,Rücksendung wegen falscher Größe,"Hallo Spreekorb Team, ich habe eine Bestellung gemacht (Bestellnummer: SPK-529903) und die Größe stimmt nicht. Ich möchte das gerne umtauschen, aber ich bin mir nicht sicher, wie das funktioniert. Könnt ihr mir bitte helfen? Ich würde das Produkt zurückschicken und die richtige Größe bestellen. Danke! Grüße, Greta",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S24,Wrong item received,long-two-requests,en,Issue with Order SPK-631262 - Wrong Item Received,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to inform you that I received the wrong item with my recent order, SPK-631262. Instead of the item I selected, I received a completely different product. I would appreciate your assistance in resolving this issue.
+
+Additionally, I would like to request guidance on how to return the incorrect item and receive the correct one. Please let me know what steps I need to take to facilitate this process.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+Omar",Returns and Exchanges,medium,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S25,Wrong item received,calm,de,Falscher Artikel erhalten - Bestellung SPK-027824,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, Sie können mir helfen. Ich habe vor kurzem die Bestellung mit der Nummer SPK-027824 aufgegeben, leider habe ich den falschen Artikel erhalten. Anstelle des gewünschten Produkts erhielt ich etwas anderes. 
+
+Könnten Sie bitte überprüfen, was schiefgelaufen ist? Ich würde mich freuen, den richtigen Artikel zu erhalten.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Lena",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S26,Wrong item received,annoyed,en,Wrong Item Received for Order SPK-588508,"Dear Spreekorb Customer Service,
+
+I am writing to express my frustration regarding my recent order (SPK-588508). I received the wrong item, and it's quite disappointing. I had specifically ordered a kitchen appliance, but instead, I received a completely different product.
+
+I expected better from your service and would like to know how this issue can be resolved. Please let me know what steps I need to take to return the incorrect item and receive the right one.
+
+Thank you for your prompt attention to this matter.
+
+Best,
+Jonas",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S27,Wrong item received,short-unclear,de,Falscher Artikel erhalten,"Hallo Spreekorb-Team, ich habe vor kurzem eine Bestellung aufgegeben (Bestellnummer: SPK-208496) und leider einen falschen Artikel erhalten. Es sieht nicht aus wie das, was ich bestellt habe. Könnten Sie mir bitte helfen, das Problem zu lösen? Ich bin mir nicht sicher, was ich jetzt tun soll. Vielen Dank im Voraus. 
+
+Viele Grüße, 
+Mira",Returns and Exchanges,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S28,Refund overdue,long-two-requests,en,Request for Update on Refund and Order Status,"Dear Spreekorb Customer Service,
+
+I hope this email finds you well. I am writing to inquire about the status of my refund for order number SPK-750800, which I was informed would be processed within a week, but it has now been overdue for over ten days. Could you please provide me with an update on when I can expect to receive it?
+
+Additionally, I would appreciate it if you could confirm the current status of my order, as I have not received any further information since the initial confirmation. 
+
+Thank you for your attention to these matters. 
+
+Best regards,
+Tarek",Billing and Payments,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S29,Refund overdue,calm,de,Rückerstattung überfällig,"Liebes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich schreibe Ihnen bezüglich meiner Bestellung mit der Bestellnummer SPK-681453. Leider habe ich bisher keine Rückerstattung erhalten, obwohl diese bereits angekündigt wurde. 
+
+Könnten Sie mir bitte den aktuellen Stand der Rückerstattung mitteilen? Ich wäre Ihnen sehr dankbar für eine schnelle Rückmeldung.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+Sofie",Billing and Payments,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S30,Refund overdue,annoyed,en,Refund Overdue for Order SPK-735392,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my frustration regarding the refund for my order SPK-735392, which has yet to be processed. It has been longer than the expected timeframe, and I have not received any updates or confirmation about the status of my refund.
+
+I would appreciate it if you could provide me with an update as soon as possible. I look forward to your prompt response.
+
+Best regards,
+Henrik",Billing and Payments,high,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S31,Refund overdue,short-unclear,de,Rückerstattung überfällig,"Hallo Spreekorb Team,
+
+ich hoffe, es geht Ihnen gut. Ich schreibe wegen meiner Rückerstattung für die Bestellung mit der Nummer SPK-571412. Es ist schon eine Weile her, und ich habe noch nichts erhalten. Könnten Sie bitte den Status überprüfen? Ich bin mir nicht sicher, ob ich etwas übersehen habe.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Viele Grüße,
+Amara",Billing and Payments,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S32,Refund overdue,long-two-requests,en,Request for Overdue Refund - Order SPK-439898,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to inquire about the status of my refund for order number SPK-439898. It has been over the expected processing time, and I have not yet received the funds. Could you please provide me with an update on when I might expect the refund to be processed?
+
+Additionally, I would like to request clarification on your refund policy, as I want to ensure I understand the terms and conditions better for any future orders. 
+
+Thank you for your assistance. I look forward to your prompt response.
+
+Best regards,
+Luca",Billing and Payments,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S33,Invoice resend,calm,de,Bitte um erneute Zusendung der Rechnung,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich benötige Ihre Unterstützung, da ich die Rechnung zu meiner Bestellung mit der Nummer SPK-231148 nicht mehr finden kann. Wären Sie so nett, mir diese erneut zuzusenden? Das wäre mir eine große Hilfe.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Nadia",Billing and Payments,medium,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S34,Invoice resend,annoyed,en,Request to Resend Invoice for Order SPK-471029,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to request a resend of the invoice for my recent order, SPK-471029. I have not received it yet, and it is quite frustrating as I need it for my records. 
+
+Please send the invoice at your earliest convenience. I appreciate your assistance in resolving this matter promptly.
+
+Thank you,
+Pavel",Billing and Payments,medium,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S35,Invoice resend,short-unclear,de,Bitte um erneute Zusendung der Rechnung,"Hallo Spreekorb-Team, 
+
+ich habe ein Problem mit meiner Rechnung. Ich kann das Dokument nicht finden und bräuchte es dringend. Es handelt sich um die Bestellung mit der Nummer SPK-617889. Könnten Sie mir die Rechnung bitte erneut zusenden? 
+
+Vielen Dank im Voraus. 
+
+Liebe Grüße, 
+Greta",Billing and Payments,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S36,Invoice resend,long-two-requests,en,Request for Invoice Resend,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to kindly request a resend of the invoice for my recent order, SPK-291704. Unfortunately, I seem to have misplaced the original document and would greatly appreciate your assistance in obtaining a new copy.
+
+Additionally, I would also like to inquire about the possibility of receiving an itemized list of the products included in this order. This would be incredibly helpful for my records.
+
+Thank you for your attention to these matters. I look forward to your prompt response.
+
+Best regards,
+Omar",Billing and Payments,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S37,Invoice resend,calm,de,Bitte um erneute Zusendung der Rechnung,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich habe vor Kurzem eine Bestellung mit der Nummer SPK-848749 aufgegeben und benötige die Rechnung dazu. Leider habe ich diese nicht erhalten und wäre Ihnen sehr dankbar, wenn Sie mir die Rechnung erneut zusenden könnten.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Lena",Billing and Payments,medium,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S38,Double charge,annoyed,en,Issue with Double Charge on Order SPK-911527,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to bring to your attention an issue with my recent order, SPK-911527. I noticed that my account has been charged twice for this purchase. This is quite frustrating and I would appreciate your assistance in resolving this matter as soon as possible. 
+
+Please let me know what steps I need to take to rectify this situation. I look forward to your prompt response.
+
+Thank you,
+Jonas",Billing and Payments,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S39,Double charge,short-unclear,de,Doppelte Abbuchung,"Hallo Spreekorb-Team,
+
+ich habe ein Problem mit meiner Bestellung SPK-006814. Es scheint, als wäre mein Konto doppelt belastet worden, und ich bin mir nicht sicher, wie das passieren konnte. Könnt ihr mir bitte helfen? Ich benötige die Klärung dringend.
+
+Vielen Dank im Voraus.
+
+Beste Grüße,
+Mira",Billing and Payments,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S40,Double charge,long-two-requests,en,Inquiry about Double Charge on Order SPK-795667,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to address a concern regarding my recent order (Order number: SPK-795667). I noticed that I was double charged for this order, which has caused some confusion on my end. Could you please investigate this matter and provide clarification on the charges?
+
+Additionally, I would like to request a refund for the extra charge. Your prompt assistance in resolving these issues would be greatly appreciated.
+
+Thank you for your help.
+
+Best regards,
+Tarek",Billing and Payments,high,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S41,Double charge,calm,de,Doppelte Abbuchung meiner Bestellung,"Liebes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich habe kürzlich eine Bestellung mit der Nummer SPK-844962 aufgegeben und musste leider feststellen, dass mein Konto doppelt belastet wurde. Ich habe den Betrag bereits zweimal abgebucht gesehen, was mir etwas Sorgen bereitet. 
+
+Könnten Sie bitte überprüfen, was hier passiert ist? Ich wäre Ihnen sehr dankbar für Ihre Unterstützung und eine Klärung dieser Angelegenheit.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+Sofie",Billing and Payments,high,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S42,Double charge,annoyed,en,Double Charge Issue with Order SPK-167414,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my frustration regarding a double charge incurred on my recent order, SPK-167414. I noticed that my payment method was billed twice for this transaction, which is quite concerning. 
+
+I would appreciate it if you could look into this matter urgently and provide clarification on how to resolve it. Thank you for your attention to this issue.
+
+Best regards,
+Henrik",Billing and Payments,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S43,Damaged item,short-unclear,de,Beschädigter Artikel,"Hallo Spreekorb-Team,
+
+ich habe neulich eine Bestellung gemacht und leider ist der Artikel beschädigt angekommen. Die Bestellnummer ist SPK-732052. Ich bin mir nicht sicher, was ich jetzt tun soll. Es wäre toll, wenn ihr mir helfen könntet, das Problem zu klären. Ich freue mich auf eure Rückmeldung.
+
+Danke und viele Grüße,
+Amara",Product Support,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S44,Damaged item,long-two-requests,en,Request for Assistance with Damaged Item,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to address an issue with my recent order (Order Number: SPK-443143). Unfortunately, one of the items arrived damaged. I would like to request a replacement for this item at your earliest convenience.
+
+Additionally, I would appreciate guidance on how to return the damaged product. Please let me know the necessary steps to ensure a smooth return process.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+Luca",Product Support,high,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S45,Damaged item,calm,de,Anfrage zu beschädigtem Artikel,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich schreibe Ihnen bezüglich meiner Bestellung mit der Nummer SPK-356778. Leider habe ich festgestellt, dass der gelieferte Artikel beschädigt ist. Ich würde gerne wissen, wie ich in diesem Fall vorgehen kann. Gibt es die Möglichkeit, den Artikel zurückzusenden und einen Ersatz zu erhalten?
+
+Vielen Dank für Ihre Unterstützung im Voraus. 
+
+Mit freundlichen Grüßen, 
+Nadia",Product Support,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S46,Damaged item,annoyed,en,Damaged Item from Order SPK-291369,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my disappointment regarding my recent order SPK-291369. Upon receiving the item, I noticed it was damaged. This is quite frustrating, as I was looking forward to using it.
+
+I would appreciate it if you could advise me on how to proceed with a return or exchange. I believe this should be resolved quickly. Thank you for your attention to this matter.
+
+Best regards,
+Pavel",Product Support,high,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S47,Damaged item,short-unclear,de,Beschädigter Artikel,"Hallo Spreekorb-Team,
+
+ich habe kürzlich eine Bestellung bei Ihnen aufgegeben, die ich jetzt erhalten habe. Leider ist ein Artikel beschädigt angekommen. Die Bestellnummer ist SPK-163032. Es wäre super, wenn Sie mir helfen könnten. Ich bin mir nicht sicher, was ich jetzt tun soll. Ich warte auf Ihre Rückmeldung.
+
+Vielen Dank.
+
+Greta",Product Support,high,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S48,How-to / product question,long-two-requests,en,Product Inquiry and Assistance Needed,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I have a couple of questions regarding my recent order with you, SPK-225772. Firstly, I would like to know how to properly assemble the furniture I purchased. The instructions were a bit unclear, and I want to ensure that I do it correctly.
+
+Secondly, I am interested in learning more about any special care tips for the materials used in my items. I want to make sure they remain in great condition for years to come. 
+
+Thank you for your assistance. I look forward to your prompt response.
+
+Best regards,
+Omar",Product Support,low,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S49,How-to / product question,calm,de,Frage zu einem Produkt,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich habe eine Frage zu einem Produkt, das ich kürzlich in Ihrem Online-Shop entdeckt habe. Könnten Sie mir bitte mitteilen, ob der Artikel auch für empfindliche Haut geeignet ist? Ich bin mir unsicher und möchte sicherstellen, dass ich eine gute Wahl treffe.
+
+Vielen Dank im Voraus für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+Lena",Product Support,low,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S50,How-to / product question,annoyed,en,Product Inquiry - Order SPK-352944,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I recently received my order (SPK-352944), but I am having trouble understanding how to assemble the product. The instructions included were not very clear, and I have encountered several issues that are making it quite frustrating to proceed.
+
+Could you please provide me with more detailed guidance or a link to a tutorial? I would appreciate your prompt assistance as I would like to resolve this as soon as possible.
+
+Thank you for your help.
+
+Best regards,
+Jonas",Product Support,low,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S51,How-to / product question,short-unclear,de,Frage zu einem Produkt,"Hallo Spreekorb-Team,
+
+ich habe eine Frage zu einem Produkt, das ich bei Ihnen gekauft habe. Es geht um die richtige Benutzung, aber ich bin mir nicht sicher, wie ich das genau machen soll. Ich habe die Artikelnummer SPK-107175, aber ich finde keine Anleitung dazu. Könnten Sie mir bitte helfen? Ich möchte sicherstellen, dass ich alles richtig mache.
+
+Danke im Voraus!
+
+Viele Grüße,
+Mira",Product Support,low,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S52,How-to / product question,long-two-requests,en,Product Inquiry and How-To Assistance,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I have a few questions regarding a recent purchase I made, order number SPK-097251. Firstly, I would like guidance on how to properly assemble the items. Any tips or instructional resources would be greatly appreciated. 
+
+Additionally, I am curious about the best way to clean and maintain these products for longevity. If you could provide any specific care instructions or recommendations, that would be very helpful.
+
+Thank you for your assistance. I look forward to your prompt response.
+
+Best regards,
+Tarek",Product Support,low,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S53,Data protection deletion request,calm,de,Anfrage zur Löschung meiner Daten,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich möchte hiermit eine Anfrage auf Löschung meiner persönlichen Daten gemäß den Datenschutzbestimmungen stellen. Mein Name ist Sofie und meine Bestellnummer lautet SPK-398382. 
+
+Ich wäre Ihnen dankbar, wenn Sie mir bestätigen könnten, dass meine Daten gelöscht werden und ich keine weiteren Informationen mehr erhalten werde. 
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Sofie",Customer Service,critical,heldout,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S54,Data protection deletion request,annoyed,en,Data Protection Deletion Request,"Dear Spreekorb Customer Service, 
+
+I am writing to express my frustration regarding my data protection deletion request. I submitted a request concerning my personal data related to my recent order (SPK-101414), and I have yet to receive any confirmation or response. As a customer, I expect my privacy to be respected, and I find this delay quite concerning. Please provide me with an update on the status of my request as soon as possible. 
+
+Thank you for your attention to this matter. 
+
+Best regards, 
+Henrik",Customer Service,critical,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S55,Data protection deletion request,short-unclear,de,Anfrage zur Datenlöschung,"Sehr geehrtes Spreekorb-Team, ich habe eine Anfrage zur Löschung meiner Daten. Ich möchte, dass alle Informationen, die Sie über mich haben, gelöscht werden. Mein Bestellnummer ist SPK-376417. Ich bin mir nicht sicher, wie das genau funktioniert, aber es wäre gut, wenn das schnell erledigt werden könnte. Vielen Dank. 
+
+Mit freundlichen Grüßen, 
+Amara",Customer Service,critical,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S56,Legal threat,long-two-requests,en,Concern Regarding Legal Threat and Order SPK-888662,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my concern regarding a recent legal threat I received related to my order SPK-888662. This situation is quite distressing, and I would appreciate your assistance in resolving it swiftly. Could you please investigate this matter and clarify any misunderstandings?
+
+Additionally, I kindly request confirmation of the shipment status for my order. It's important for me to stay informed as I navigate this issue.
+
+Thank you for your attention to these matters. I look forward to your prompt response.
+
+Best regards,
+Luca",Customer Service,critical,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S57,Legal threat,calm,de,Rechtliche Angelegenheit bezüglich meiner Bestellung SPK-360663,"Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich wende mich an Sie, da ich eine rechtliche Angelegenheit im Zusammenhang mit meiner Bestellung SPK-360663 klären möchte. Leider habe ich einige Probleme, die ich gerne besprechen würde, bevor ich weitere Schritte unternehme.
+
+Ich wäre Ihnen sehr dankbar, wenn Sie mir zeitnah einen Rückruf oder eine E-Mail senden könnten, damit wir die Situation klären können.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Nadia",Customer Service,critical,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S58,Legal threat,annoyed,en,Legal Threat Regarding Order SPK-633052,"Dear Spreekorb Customer Service,
+
+I am writing to express my frustration regarding my recent order, SPK-633052. Despite multiple attempts to resolve an issue with the product, I have not received a satisfactory response from your team. This situation is unacceptable and could potentially lead to legal action if it remains unresolved. I expect a prompt resolution to this matter, as I am prepared to escalate it further if necessary. Please respond at your earliest convenience.
+
+Best regards,
+Pavel",Customer Service,critical,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S59,Thanks / feedback,short-unclear,de,Danke für den tollen Service,"Liebes Spreekorb-Team, ich wollte mich einfach mal bedanken. Meine Bestellung (SPK-277370) kam schnell an und alles war in einwandfreiem Zustand. Das Produkt hat meine Erwartungen sogar übertroffen. Ich habe mich wirklich gefreut, als ich das Paket geöffnet habe. Ihr Service war super, danke dafür! Macht weiter so! Viele Grüße, Greta",Customer Service,very_low,tuning,False,True,"gpt-4o-mini, temp 0.9, R1-02b"
+S60,Thanks / feedback,long-two-requests,en,Thank You and Feedback,"Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I wanted to take a moment to express my gratitude for the excellent service I received during my recent order (SPK-846335). The product arrived on time and met all my expectations. Your team's attention to detail truly impressed me.
+
+Additionally, I would like to suggest adding more product descriptions on your website. Sometimes it is challenging to gauge the quality and features of an item without more information. I believe this could enhance the shopping experience for many customers.
+
+Thank you for your hard work and dedication. I look forward to shopping with Spreekorb again soon.
+
+Best regards,
+Omar",Customer Service,very_low,heldout,True,True,"gpt-4o-mini, temp 0.9, R1-02b"

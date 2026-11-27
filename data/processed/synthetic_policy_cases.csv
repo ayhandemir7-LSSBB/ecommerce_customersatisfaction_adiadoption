@@ -1,0 +1,9 @@
+email_id,subject,body,language,synthetic,queue_human,priority_human
+P01,Rücksendung Jacke,"Hallo, ich habe letzte Woche eine Jacke bestellt (Bestellung SPK-104233). Sie passt leider nicht. Kann ich sie zurückschicken und wie geht das?",de,True,,
+P02,Refund not received,"Hi, I returned a pair of shoes (order SPK-104871) two weeks ago. Tracking says the parcel reached your warehouse 6 days ago, but my PayPal refund has not arrived. When will it come?",en,True,,
+P03,Paket kommt nicht an,"Hallo, meine Bestellung SPK-105002 wurde vor 7 Werktagen verschickt, aber die DHL-Sendungsverfolgung zeigt seit 6 Tagen kein Update. Wo ist mein Paket?",de,True,,
+P04,Lamp arrived broken,"Hello, the table lamp from order SPK-105118 arrived today with a cracked glass shade, and the box was dented. What can you do?",en,True,,
+P05,Bestellung stornieren,"Hallo, ich habe heute Morgen aus Versehen zweimal dieselbe Bettwäsche bestellt (SPK-105230). Bitte storniert die zweite Bestellung, sie ist noch nicht verschickt.",de,True,,
+P06,Invoice needed again,"Hi, I need the invoice for order SPK-105344 for my tax return, but I cannot find the email any more. Could you send it again?",en,True,,
+P07,Löschung meiner Daten,"Hallo, bitte löscht mein Kundenkonto und alle Daten, die ihr über mich gespeichert habt, nach Art. 17 DSGVO, und bestätigt mir die Löschung.",de,True,,
+P08,Final warning before legal action,"I have waited four weeks for the refund of my cancelled order SPK-105461. If the money is not in my account by Friday, my lawyer will take legal action against Spreekorb.",en,True,,

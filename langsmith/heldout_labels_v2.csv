@@ -1,0 +1,178 @@
+email_id,topic,language,subject,body,queue_intended,priority_intended,queue_human,priority_human,note
+"S05","Order status","de","Anfrage zum Bestellstatus","Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich habe am [Datum] eine Bestellung mit der Bestellnummer SPK-288389 aufgegeben und wollte mich erkundigen, wie der aktuelle Status meiner Bestellung ist. Ich wäre Ihnen sehr dankbar, wenn Sie mir Informationen über den Versand oder etwaige Verzögerungen zukommen lassen könnten.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Sofie","Customer Service","medium","Customer Service","low","it is a status check"
+"S06","Late delivery, no tracking update","en","Inquiry Regarding Late Delivery and Missing Tracking Update","Dear Spreekorb Customer Service,
+
+I am writing to express my frustration regarding my recent order (SPK-256787). It has not yet arrived, and I have not received any tracking updates. I understand that delays can happen, but it has been quite some time without any communication from your side. 
+
+Could you please provide me with an update on my order’s status? I would appreciate your prompt attention to this matter.
+
+Thank you.
+
+Best regards,
+Henrik","Customer Service","medium","Customer Service","high","frsutration on extra delay"
+"S07","Late delivery, no tracking update","de","Verspätete Lieferung und fehlendes Tracking-Update","Hallo Spreekorb-Team,
+
+ich habe am 10. Oktober eine Bestellung mit der Bestellnummer SPK-234053 aufgegeben. Leider ist die Lieferung bis jetzt noch nicht angekommen und ich habe keinerlei Updates zum Versandstatus oder Tracking. Könnten Sie mir bitte helfen? Ich wäre Ihnen sehr dankbar für Informationen.
+
+Vielen Dank.
+
+Gruß,
+Amara","Customer Service","medium","Customer Service","medium",""
+"S11","Cancellation before dispatch","de","Stornierung meiner Bestellung","Hallo Spreekorb-Team,
+
+ich möchte meine Bestellung mit der Nummer SPK-709570 stornieren. Ich bin mir nicht sicher, ob das noch möglich ist, da sie möglicherweise schon versandt wurde. Ich hätte gerne eine Bestätigung, falls das noch machbar ist. 
+
+Danke und viele Grüße,
+Greta","Customer Service","medium","Customer Service","high","canccellation"
+"S15","Return request","de","Rücksendungsanfrage","Hallo Spreekorb-Team,
+
+ich habe eine Bestellung mit der Nummer SPK-091161 und möchte etwas zurückschicken. Leider bin ich mir nicht ganz sicher, wie der Rücksendeprozess genau funktioniert. Gibt es da spezielle Schritte, die ich beachten muss? Ich wäre dankbar für eine kurze Anleitung.
+
+Vielen Dank im Voraus!
+
+Viele Grüße,
+Mira","Returns and Exchanges","medium","Returns and Exchanges","medium",""
+"S16","Return request","en","Return Request for Order SPK-619176","Dear Spreekorb Customer Service, 
+
+I hope this message finds you well. I am writing to request a return for my recent order, SPK-619176. Unfortunately, the item did not meet my expectations, and I would like to initiate the return process at your earliest convenience. 
+
+Additionally, I would appreciate if you could provide me with information on the timeline for processing the return and any shipping procedures I should follow. Thank you for your assistance. 
+
+Best regards, 
+Tarek","Returns and Exchanges","medium","Product Support","critical","avoid return"
+"S20","Exchange, wrong size","en","Request for Exchange - Wrong Size for Order SPK-098246","Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to request an exchange for my recent order, SPK-098246. Unfortunately, the item I received is not the correct size for me. I would appreciate your guidance on how to proceed with this exchange process.
+
+Additionally, I would like to inquire whether you have any specific guidelines or policies regarding the return of items. Knowing this information would greatly assist me in ensuring a smooth exchange.
+
+Thank you for your time and assistance. I look forward to your prompt response.
+
+Best regards,
+Luca","Returns and Exchanges","medium","Returns and Exchanges","medium",""
+"S24","Wrong item received","en","Issue with Order SPK-631262 - Wrong Item Received","Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to inform you that I received the wrong item with my recent order, SPK-631262. Instead of the item I selected, I received a completely different product. I would appreciate your assistance in resolving this issue.
+
+Additionally, I would like to request guidance on how to return the incorrect item and receive the correct one. Please let me know what steps I need to take to facilitate this process.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+Omar","Returns and Exchanges","medium","Returns and Exchanges","high",""
+"S30","Refund overdue","en","Refund Overdue for Order SPK-735392","Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to express my frustration regarding the refund for my order SPK-735392, which has yet to be processed. It has been longer than the expected timeframe, and I have not received any updates or confirmation about the status of my refund.
+
+I would appreciate it if you could provide me with an update as soon as possible. I look forward to your prompt response.
+
+Best regards,
+Henrik","Billing and Payments","high","Billing and Payments","high",""
+"S33","Invoice resend","de","Bitte um erneute Zusendung der Rechnung","Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich benötige Ihre Unterstützung, da ich die Rechnung zu meiner Bestellung mit der Nummer SPK-231148 nicht mehr finden kann. Wären Sie so nett, mir diese erneut zuzusenden? Das wäre mir eine große Hilfe.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Nadia","Billing and Payments","medium","Billing and Payments","medium",""
+"S34","Invoice resend","en","Request to Resend Invoice for Order SPK-471029","Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to request a resend of the invoice for my recent order, SPK-471029. I have not received it yet, and it is quite frustrating as I need it for my records. 
+
+Please send the invoice at your earliest convenience. I appreciate your assistance in resolving this matter promptly.
+
+Thank you,
+Pavel","Billing and Payments","medium","Billing and Payments","low","its a resend"
+"S40","Double charge","en","Inquiry about Double Charge on Order SPK-795667","Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to address a concern regarding my recent order (Order number: SPK-795667). I noticed that I was double charged for this order, which has caused some confusion on my end. Could you please investigate this matter and provide clarification on the charges?
+
+Additionally, I would like to request a refund for the extra charge. Your prompt assistance in resolving these issues would be greatly appreciated.
+
+Thank you for your help.
+
+Best regards,
+Tarek","Billing and Payments","high","","",""
+"S41","Double charge","de","Doppelte Abbuchung meiner Bestellung","Liebes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich habe kürzlich eine Bestellung mit der Nummer SPK-844962 aufgegeben und musste leider feststellen, dass mein Konto doppelt belastet wurde. Ich habe den Betrag bereits zweimal abgebucht gesehen, was mir etwas Sorgen bereitet. 
+
+Könnten Sie bitte überprüfen, was hier passiert ist? Ich wäre Ihnen sehr dankbar für Ihre Unterstützung und eine Klärung dieser Angelegenheit.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+Sofie","Billing and Payments","high","Billing and Payments","high",""
+"S44","Damaged item","en","Request for Assistance with Damaged Item","Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I am writing to address an issue with my recent order (Order Number: SPK-443143). Unfortunately, one of the items arrived damaged. I would like to request a replacement for this item at your earliest convenience.
+
+Additionally, I would appreciate guidance on how to return the damaged product. Please let me know the necessary steps to ensure a smooth return process.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+Luca","Product Support","high","Product Support","high",""
+"S47","Damaged item","de","Beschädigter Artikel","Hallo Spreekorb-Team,
+
+ich habe kürzlich eine Bestellung bei Ihnen aufgegeben, die ich jetzt erhalten habe. Leider ist ein Artikel beschädigt angekommen. Die Bestellnummer ist SPK-163032. Es wäre super, wenn Sie mir helfen könnten. Ich bin mir nicht sicher, was ich jetzt tun soll. Ich warte auf Ihre Rückmeldung.
+
+Vielen Dank.
+
+Greta","Product Support","high","Product Support","high",""
+"S51","How-to / product question","de","Frage zu einem Produkt","Hallo Spreekorb-Team,
+
+ich habe eine Frage zu einem Produkt, das ich bei Ihnen gekauft habe. Es geht um die richtige Benutzung, aber ich bin mir nicht sicher, wie ich das genau machen soll. Ich habe die Artikelnummer SPK-107175, aber ich finde keine Anleitung dazu. Könnten Sie mir bitte helfen? Ich möchte sicherstellen, dass ich alles richtig mache.
+
+Danke im Voraus!
+
+Viele Grüße,
+Mira","Product Support","low","Product Support","low",""
+"S52","How-to / product question","en","Product Inquiry and How-To Assistance","Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I have a few questions regarding a recent purchase I made, order number SPK-097251. Firstly, I would like guidance on how to properly assemble the items. Any tips or instructional resources would be greatly appreciated. 
+
+Additionally, I am curious about the best way to clean and maintain these products for longevity. If you could provide any specific care instructions or recommendations, that would be very helpful.
+
+Thank you for your assistance. I look forward to your prompt response.
+
+Best regards,
+Tarek","Product Support","low","Product Support","low",""
+"S53","Data protection deletion request","de","Anfrage zur Löschung meiner Daten","Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich möchte hiermit eine Anfrage auf Löschung meiner persönlichen Daten gemäß den Datenschutzbestimmungen stellen. Mein Name ist Sofie und meine Bestellnummer lautet SPK-398382. 
+
+Ich wäre Ihnen dankbar, wenn Sie mir bestätigen könnten, dass meine Daten gelöscht werden und ich keine weiteren Informationen mehr erhalten werde. 
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Sofie","Customer Service","critical","Customer Service","critical","gdpr"
+"S57","Legal threat","de","Rechtliche Angelegenheit bezüglich meiner Bestellung SPK-360663","Sehr geehrtes Spreekorb-Team,
+
+ich hoffe, es geht Ihnen gut. Ich wende mich an Sie, da ich eine rechtliche Angelegenheit im Zusammenhang mit meiner Bestellung SPK-360663 klären möchte. Leider habe ich einige Probleme, die ich gerne besprechen würde, bevor ich weitere Schritte unternehme.
+
+Ich wäre Ihnen sehr dankbar, wenn Sie mir zeitnah einen Rückruf oder eine E-Mail senden könnten, damit wir die Situation klären können.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Nadia","Customer Service","critical","Customer Service","critical",""
+"S60","Thanks / feedback","en","Thank You and Feedback","Dear Spreekorb Customer Service,
+
+I hope this message finds you well. I wanted to take a moment to express my gratitude for the excellent service I received during my recent order (SPK-846335). The product arrived on time and met all my expectations. Your team's attention to detail truly impressed me.
+
+Additionally, I would like to suggest adding more product descriptions on your website. Sometimes it is challenging to gauge the quality and features of an item without more information. I believe this could enhance the shopping experience for many customers.
+
+Thank you for your hard work and dedication. I look forward to shopping with Spreekorb again soon.
+
+Best regards,
+Omar","Customer Service","very_low","Customer Service","very_low",""
