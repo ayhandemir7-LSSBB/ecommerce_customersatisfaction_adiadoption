@@ -1,0 +1,74 @@
+email_id,language,subject,draft_reply,score_1_5,note,issues
+"S05","de","Anfrage zum Bestellstatus","Hallo Sofie,
+
+danke für deine Nachricht. Ich werde den Status deiner Bestellung mit der Bestellnummer SPK-288389 überprüfen und dir innerhalb von 24 Stunden ein Update geben.
+
+Wenn du weitere Fragen hast, lass es mich wissen.
+
+Viele Grüße, dein Spreekorb Kundenservice","5","",""
+"S11","de","Stornierung meiner Bestellung","Hallo Greta,
+
+du kannst deine Bestellung bis zum Versand kostenlos stornieren. Ich werde den Status deiner Bestellung mit der Nummer SPK-709570 überprüfen und dir schnellstmöglich eine Rückmeldung geben.
+
+Falls die Bestellung bereits versandt wurde, kannst du sie bei der Lieferung ablehnen oder sie gemäß unserer Rückgaberichtlinien zurücksenden.
+
+Viele Grüße, dein Spreekorb Kundenservice","4","tone could be better, more understanding","Wrong tone or brand"
+"S20","en","Request for Exchange - Wrong Size for Order SPK-098246","Hi Luca,
+
+Thank you for your message. You can exchange your item by following these steps:
+1. Log into your account and go to Mein Spreekorb > Bestellungen > Rücksendung to create a return label.
+2. Send the item back to us.
+
+Once we receive the item and check it, we will process your exchange. If you have any further questions about our return policies, feel free to ask.
+
+Best wishes, Spreekorb Customer Service","4","can add more understanding","Wrong tone or brand"
+"S24","en","Issue with Order SPK-631262 - Wrong Item Received","Hi Omar,
+
+I'm sorry to hear that you received the wrong item with your order SPK-631262. To resolve this, we will send you a prepaid return label for the incorrect item. Once we receive it back, we will ship the correct item to you.
+
+Here’s how to return the item:
+1. We will send the return label to your email shortly.
+2. Print the label and attach it to the package.
+3. Drop it off at a DHL location.
+
+If you have any questions or need further assistance, feel free to reach out.
+
+Best wishes, Spreekorb Customer Service","5","",""
+"S40","en","Inquiry about Double Charge on Order SPK-795667","Hi Tarek,
+
+Thank you for your message. I understand your concern regarding the double charge for your order SPK-795667. I will forward this issue to our Billing team for investigation. They will review the charges and get back to you as soon as possible.
+
+If you have any further questions in the meantime, feel free to reach out.
+
+Best wishes, Spreekorb Customer Service","3","can be more assuring","Wrong tone or brand"
+"S44","en","Request for Assistance with Damaged Item","Hi Luca,
+
+I'm sorry to hear that one of your items arrived damaged. Please send us two photos, one of the damaged item and one of the packaging. Once we receive those, we can offer you a replacement or a refund.
+
+For the return, you can create a prepaid return label in your account under 'My Spreekorb' > 'Orders' > 'Return'. If you need further assistance, feel free to ask.
+
+Best wishes, Spreekorb Customer Service","5","",""
+"S47","de","Beschädigter Artikel","Hallo Greta,
+
+danke für deine Nachricht. Es tut mir leid zu hören, dass ein Artikel beschädigt angekommen ist. Bitte sende uns zwei Fotos: eines vom beschädigten Artikel und eines von der Verpackung. Danach können wir dir entweder einen Ersatz oder eine Rückerstattung anbieten.
+
+Ich freue mich auf deine Rückmeldung.
+
+Viele Grüße, dein Spreekorb Kundenservice","4","",""
+"S52","en","Product Inquiry and How-To Assistance","Hi Tarek,
+
+Thank you for your message. I can help with your questions about assembly and maintenance. Please check the product page on our website for assembly instructions and care tips. If you need further assistance, feel free to reach out!
+
+Best wishes, Spreekorb Customer Service","2","there are several requests some missed","Missed request"
+"S57","de","Rechtliche Angelegenheit bezüglich meiner Bestellung SPK-360663","Hallo Nadia,
+
+danke für deine Nachricht. Wir haben deine Anfrage zur rechtlichen Angelegenheit erhalten und leiten sie umgehend an unser Rechtsteam weiter. Sie werden sich so schnell wie möglich mit dir in Verbindung setzen, um die Situation zu klären.
+
+Viele Grüße, dein Spreekorb Kundenservice","2","some requests are missed","Missed request"
+"S60","en","Thank You and Feedback","Hi Omar,
+
+Thank you for your kind words about our service! We’re glad to hear that your order met your expectations. We also appreciate your suggestion regarding product descriptions; feedback like yours helps us improve the shopping experience for everyone.
+
+If you have any other thoughts or need assistance, feel free to reach out.
+
+Best wishes, Spreekorb Customer Service","5","",""

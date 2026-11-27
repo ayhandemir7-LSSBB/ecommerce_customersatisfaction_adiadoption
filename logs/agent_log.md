@@ -198,3 +198,34 @@ import |
 | 2026-11-27 12:51 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
 | 2026-11-27 12:51 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
 | 2026-11-27 12:52 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 13:22 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; git status --short; |
+| 2026-11-27 13:22 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; python3 -c "
+import |
+| 2026-11-27 13:22 | Bash | P=/opt/anaconda3/envs/bootcamp-env/lib/python3.11/site-packages/openevals; grep -n "temperature\/chat.completions.create |
+| 2026-11-27 13:22 | Bash | F=/opt/anaconda3/envs/bootcamp-env/lib/python3.11/site-packages/langsmith/evaluation/_runner.py; sed -n 423,445p $F; gre |
+| 2026-11-27 13:24 | Bash | C=/opt/anaconda3/envs/bootcamp-env/lib/python3.11/site-packages/langsmith/client.py; grep -n "    def list_runs" $C; gre |
+| 2026-11-27 13:24 | Bash | C=/opt/anaconda3/envs/bootcamp-env/lib/python3.11/site-packages/langsmith/client.py; sed -n 4190,4215p $C; sed -n 8142,8 |
+| 2026-11-27 13:25 | Write | /private/tmp/claude-501/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-adiadoption/8 |
+| 2026-11-27 13:26 | Bash | S="/private/tmp/claude-501/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-adiadoptio |
+| 2026-11-27 13:26 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
+| 2026-11-27 13:27 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
+| 2026-11-27 13:28 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 13:29 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
+| 2026-11-27 13:35 | Bash | S=/opt/anaconda3/envs/bootcamp-env/lib/python3.11/site-packages/langsmith; grep -n "^class Feedback\b\/^class FeedbackBa |
+| 2026-11-27 13:36 | Bash | /opt/anaconda3/envs/bootcamp-env/bin/python - <<'EOF'
+from langsmith.schemas import Feedback
+import uuid, datetime
+n=dat |
+| 2026-11-27 13:52 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; cat -A langsmith/hu |
+| 2026-11-27 13:52 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
+| 2026-11-27 13:54 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; ls -la langsmith; / |
+| 2026-11-27 13:54 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; ls -la notebooks/R1 |
+| 2026-11-27 13:54 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; grep -c "list(hr.co |
+| 2026-11-27 13:55 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
+| 2026-11-27 14:04 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; B="_backup/$(date + |
+| 2026-11-27 14:04 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; grep -io ".\{80\}ju |
+| 2026-11-27 14:04 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 14:14 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; B="_backup/$(date + |
+| 2026-11-27 14:14 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption"; /opt/anaconda3/envs |
+| 2026-11-27 14:14 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 14:17 | Edit | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
