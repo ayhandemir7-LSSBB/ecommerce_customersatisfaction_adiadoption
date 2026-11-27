@@ -330,3 +330,13 @@ impo |
 | 2026-11-27 16:06 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
 | 2026-11-27 16:06 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
 | 2026-11-27 16:06 | Edit | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
+| 2026-11-27 16:32 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && cat specs/R1-04_n |
+| 2026-11-27 16:49 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && ls -la n8n/screen |
+| 2026-11-27 16:49 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/n8n" && grep -n -i -E |
+| 2026-11-27 16:49 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/n8n" && /opt/anaconda |
+| 2026-11-27 16:49 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/n8n" && /opt/anaconda |
+| 2026-11-27 16:50 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && grep -n "^/ R1-04 |
+| 2026-11-27 16:50 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 16:50 | Edit | /Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption/board.md |
+| 2026-11-27 16:50 | Bash | cd "/Users/macbook-air/Desktop/AI consulting/Week8/Day4/ecommerce_customersatisfaction_adiadoption" && awk -F'/' 'NR>6 & |
+| 2026-11-27 16:50 | Edit | /Users/macbook-air/.claude/projects/-Users-macbook-air-Desktop-AI-consulting-Week8-Day4-ecommerce-customersatisfaction-a |
